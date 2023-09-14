@@ -1,3 +1,8 @@
 import streamlit
 
-streamlit.title('KEERTHI I LOVE YOU TO')
+streamlit.title('My Parents New Healthy Dinner')
+
+streamlit.heder('Braekfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+stremlit.text('Kale, Spanish, & Rocket Smoothie')
+stremlit.text(''Hard-Boiled Free-Range Egg')
